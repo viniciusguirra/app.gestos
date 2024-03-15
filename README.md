@@ -1,4 +1,4 @@
-# Hand Gesture Volume Control
+# Controle de volume por meio de gestos das mãos 
 
 Este é um projeto de controle de volume baseado em gestos de mão usando Python e a biblioteca MediaPipe. Ele permite controlar o volume do sistema operacional ajustando a distância entre dois dedos na frente da câmera.
 
