@@ -39,7 +39,3 @@ Este é um projeto de controle de volume baseado em gestos de mão usando Python
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de recebimento.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
